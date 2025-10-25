@@ -62,7 +62,7 @@ const members = [
 
 const App = () => {
   return (
-    <div className='min-h-screen p-6 max-w-screen-xl mx-auto'>
+    <div className='min-h-screen p-6 max-w-7xl mx-auto'>
       
       <h1 className='text-3xl font-bold text-center text-blue-600 mb-6'>Team members List</h1>
 
